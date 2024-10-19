@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--General spacing-->
+    <dimen name="tiny">2dp</dimen>
+    <dimen name="small">4dp</dimen>
+    <dimen name="medium">8dp</dimen>
+    <dimen name="large">15dp</dimen>
+
+    <!--General text size-->
+    <dimen name="text_tiny">12sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="text_small_medium">15sp</dimen>
+    <dimen name="text_medium">16sp</dimen>
+    <dimen name="text_large">18sp</dimen>
+</resources>
